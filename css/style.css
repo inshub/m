@@ -386,6 +386,8 @@ pre {
 
 .text-center {
   float: left;
+  font-size: 21px;
+  font-family: monospace;
 }
 /*====================================================
     main post area
