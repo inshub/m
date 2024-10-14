@@ -4,6 +4,8 @@
 
 刚好找了两个目前模型的公益站点，虽然都有使用限制，但是用于临时查询足够用。
 
+### ChatGPT 4 公益站点
+
 https://sharedchat.fun/
 
 ### Claude 3.5 公益站点  【推荐】
@@ -11,4 +13,3 @@ https://sharedchat.fun/
 https://kelaode.ai/
 
 > 🌈 公众号封面基于Claude生成。
-### ChatGPT 4 公益站点
