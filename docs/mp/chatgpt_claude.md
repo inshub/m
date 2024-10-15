@@ -12,4 +12,10 @@ https://sharedchat.fun/
 
 https://kelaode.ai/
 
+### Chat100.ai 【强烈推荐】
+
+https://chat100.ai/
+
+Chat100.ai 提供了 GPT-4o 和 Claude 3.5 Sonnet 的免费使用，无需登录或注册即可进行 AI 聊天。
+
 > 🌈 公众号封面基于Claude生成。
